@@ -1,1 +1,1 @@
-# smartvote.github.io
+# https://durakivan.github.io/smartvote/
